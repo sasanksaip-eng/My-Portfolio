@@ -60,3 +60,6 @@ SQL
 PostgreSQL
 Supabase
 GitHub
+<img width="1920" height="1080" alt="Screenshot 2026-05-23 210433" src="https://github.com/user-attachments/assets/6f521017-e795-447d-a38b-15c65c147de6" />
+
+
